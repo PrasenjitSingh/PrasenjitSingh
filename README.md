@@ -1,5 +1,3 @@
-# 👋 Hello, I’m Prasenjit Singh (@psmman)
-
 ![Strategic Thought Leader](https://img.shields.io/badge/Strategic%20Thought%20Leader-%E2%9C%94%EF%B8%8F-blue)
 ![Digital Innovation Expert](https://img.shields.io/badge/Digital%20Innovation%20Expert-%E2%9C%94%EF%B8%8F-brightgreen)
 ![Global IT Leadership](https://img.shields.io/badge/Global%20IT%20Leadership-%E2%9C%94%EF%B8%8F-blueviolet)
