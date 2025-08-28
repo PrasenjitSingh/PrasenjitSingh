@@ -224,3 +224,18 @@ He/Him
 
 ## ⚡ Fun Fact
 Off the tech stage, I’m a **National Cricket Player** who has traveled and lived in **5 countries** playing the sport I love. I’m also a **vinyl record collector** with a taste for music across all genres. I’ve visited **21 states in the U.S.** since 2009, always on the lookout for the next adventure!
+
+![Profile Views](https://komarev.com/ghpvc/?username=PrasenjitSingh&style=flat-square&color=blue)
+
+![GitHub Snake Light](https://github.com/PrasenjitSingh/PrasenjitSingh/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/PrasenjitSingh/PrasenjitSingh/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EF3E2E?logo=databricks&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+
